@@ -1,4 +1,4 @@
 oo-o-oo
 =======
 
-jekyll site
+jekyll site and blog
